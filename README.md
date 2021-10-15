@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi fellow Humans!
+
+GudJob here, I like to code.
